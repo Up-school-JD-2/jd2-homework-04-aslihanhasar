@@ -17,3 +17,7 @@ Bu projede, sınıflar ve nesneler arasındaki ilişkiyi anlamak için kullanabi
 ![img_2.png](img_2.png)
 
 ![img_1.png](img_1.png)
+
+***After removing album from the cart***
+
+![img_3.png](img_3.png)
