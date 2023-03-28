@@ -52,7 +52,6 @@ public class Album {
                 "Singer Name = " + singer.getName() + '\n' +
                 "Release Year = " + releaseYear + '\n' + '\n' +
                 "****** Album Songs ****** " + '\n' + songs.toString() + '\n' + '\n' +
-                "Total Album Price = " + calculateAlbumPrice() + '\n';
+                "Total Album Price = " + calculateAlbumPrice() + '\n' + "₺";
     }
-
 }
