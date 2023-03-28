@@ -9,3 +9,11 @@ Ayrıca, kullanıcıların hesapları için bir sınıf ve kullanıcının sepet
 Son olarak, ana program sınıfı (Main Class) oluşturun. Bu sınıf, kullanıcı arayüzünü oluşturmak için gerekli fonksiyonları içermelidir. Kullanıcıların hesap oluşturmasına, müzik albümlerini aramasına, sepete öğe eklemesine ve satın alma işlemini gerçekleştirmesine izin veren işlevler yer alabilir.
 
 Bu projede, sınıflar ve nesneler arasındaki ilişkiyi anlamak için kullanabilirsiniz. Müzik albümleri, şarkılar ve sepet öğeleri gibi nesneleri temsil eden sınıflar oluşturabilirsiniz. Ayrıca, kullanıcıların hesaplarını ve satın alma işlemlerini yönetmek için gerekli sınıfları da oluşturabilirsiniz.
+
+**PROGRAM OUTPUT**
+
+![img.png](img.png)
+
+![img_2.png](img_2.png)
+
+![img_1.png](img_1.png)
